@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I am Muhammad Huzaifa! </h1>
+![logo](https://github.com/Huz7842/Huz7842/blob/main/Software%20engineer.png)
+
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="Right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
