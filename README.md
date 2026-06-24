@@ -1,6 +1,4 @@
-![logo](https://github.com/Huz7842/Huz7842/blob/main/image.png)
-<img src="https://github.com/Huz7842/Huz7842/blob/main/image.png" width="800" alt="cover">
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate AI Solution & Automation Engineer from Pakistan</h3>
 <img align="Right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huz7842&label=Profile%20views&color=0e75b6&style=flat" alt="huz7842" /> </p>
